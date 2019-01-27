@@ -86,3 +86,11 @@ a:link, a:visited, a:hover, a:active {
 .item-column, .item-column .category::before {
   border-color: #c1efff;
 } 
+
+.item-m {
+  width: 364px;
+}
+
+.item-l {
+  width: 728px;
+}
